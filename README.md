@@ -23,7 +23,6 @@ Below you can find the file content of this project:
       |- articles_community.csv (csv file with data to process)
       |- user-item-interactions.csv (csv file with data to process)
 
-      - LICENSE.md (markdown file with license of this software package)
       - project_test.py (python file with test functions)
       - README.md (markdown file with instructions)
       - Recommendations_with_IBM.ipynb (jupyter notebook file with recommendation functions)
@@ -33,10 +32,6 @@ Below you can find the file content of this project:
       - top_20.p (p file with data of top 20 recommendations for testing of results)
 
 </code></pre>
-
-
-## Copyright and Licencing
-This project is licensed under the terms of the MIT license
 
 ## Contact
 Author: Eugen Iftimoaie
